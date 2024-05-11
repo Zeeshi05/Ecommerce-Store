@@ -17,7 +17,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 try {
   await mongoose.connect(
-    "mongodb+srv://Nasar_Ali:Password@nasarali.sjrfgg4.mongodb.net/ZeeshiContact"
+    "connection_string"
   );
 } catch (error) {
   console.log("MonogDb Connection Error", error);
