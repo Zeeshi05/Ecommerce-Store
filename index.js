@@ -9,7 +9,7 @@ import Email from "./models/subscribes.js";
 const app = express();
 
 const port = 8000;
-
+// Today i made some function
 app.use(cors());
 app.use(express.json());
 app.use(bodyParser.json());
