@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "image": "../img/products/f1.jpg",
+        "brand": "Nike",
+        "name": "Galactic Explorer T-Shirt",
+        "description": "Embark on a journey through the cosmos with this unique Galactic Explorer T-Shirt. Featuring intricate designs of planets and stars, it's perfect for those who dream big.",
+        "price": 85.50,
+        "category": "shirt",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "image": "../img/products/f2.jpg",
+        "brand": "Adidas",
+        "name": "Stellar Navigator T-Shirt",
+        "description": "Navigate your way through style with this Stellar Navigator T-Shirt. With its constellation-inspired graphics, it's a true celestial delight.",
+        "price": 88.00,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "image": "../img/products/f3.jpg",
+        "brand": "Puma",
+        "name": "Cosmic Voyager T-Shirt",
+        "description": "Venture into the unknown with the Cosmic Voyager T-Shirt. Its space-themed artwork captures the essence of exploration and wonder.",
+        "price": 90.50,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "image": "../img/products/f4.jpg",
+        "brand": "Under Armour",
+        "name": "Astronaut's Dream T-Shirt",
+        "description": "Experience the dream of space travel with the Astronaut's Dream T-Shirt. Its imaginative design is a tribute to the brave souls who venture beyond our world.",
+        "price": 87.00,
+        "category": "shirt",
+        "rating": 3
+    },
+    {
+        "id": 5,
+        "image": "../img/products/f5.jpg",
+        "brand": "Reebok",
+        "name": "Galaxy Guardian T-Shirt",
+        "description": "Guard the galaxies in style with the Galaxy Guardian T-Shirt. Its cosmic motifs make it a must-have for space enthusiasts.",
+        "price": 86.75,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "image": "../img/products/f6.jpg",
+        "brand": "New Balance",
+        "name": "Starlight Explorer T-Shirt",
+        "description": "Illuminate your style with the Starlight Explorer T-Shirt. Its radiant design is inspired by the beauty of the night sky.",
+        "price": 84.25,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 7,
+        "image": "../img/products/f7.jpg",
+        "brand": "ASICS",
+        "name": "Moonlit Odyssey T-Shirt",
+        "description": "Embark on a moonlit odyssey with this captivating T-Shirt. Its lunar-themed graphics are a nod to the mysteries of the night.",
+        "price": 89.00,
+        "category": "shirt",
+        "rating": 2
+    },
+    {
+        "id": 8,
+        "image": "../img/products/f8.jpg",
+        "brand": "FILA",
+        "name": "Orbiting Dreams T-Shirt",
+        "description": "Orbit your dreams with this inspiring T-Shirt. Its space-centric design will take your style to new heights.",
+        "price": 83.50,
+        "category": "shirt",
+        "rating": 4
+    },
+    {
+        "id": 9,
+        "image": "../images/1.webp",
+        "brand": "Diesel",
+        "name": "Timeless Elegance Watch",
+        "description": "Experience timeless elegance with this exquisite watch. Its sleek design and precise craftsmanship make it a true masterpiece.",
+        "price": 91.50,
+        "category": "watch",
+        "rating": 4
+    },
+    {
+        "id": 10,
+        "image": "../images/2.webp",
+        "brand": "Fossil",
+        "name": "Chrono Voyager Watch",
+        "description": "Journey through time with the Chrono Voyager Watch. Its intricate dial and robust features make it a reliable companion for any adventure.",
+        "price": 89.75,
+        "category": "watch",
+        "rating": 4
+    },
+    {
+        "id": 11,
+        "image": "../images/3.webp",
+        "brand": "Timex",
+        "name": "Lunar Explorer Watch",
+        "description": "Embark on lunar explorations with this adventurous watch. Its lunar-inspired design captures the spirit of exploration and discovery.",
+        "price": 88.25,
+        "category": "watch",
+        "rating": 4
+    },
+    {
+        "id": 12,
+        "image": "../images/4.webp",
+        "brand": "Citizen",
+        "name": "Galactic Guardian Watch",
+        "description": "Guard the galaxies with this stellar watch. Its space-themed elements and durable construction make it a must-have for space enthusiasts.",
+        "price": 90.00,
+        "category": "watch",
+        "rating": 4
+    },
+    {
+        "id": 13,
+        "image": "../img/products/f1.jpg",
+        "brand": "Rolex",
+        "name": "Spacewalk Dream T-Shirt",
+        "description": "Feel the thrill of a spacewalk with this adventurous T-Shirt. Its captivating design will transport you to the vastness of the cosmos.",
+        "price": 87.75,
+        "category": "shirt",
+        "rating": 4
+    },
+    {
+        "id": 14,
+        "image": "../img/products/f2.jpg",
+        "brand": "Seiko",
+        "name": "Galactic Guardian T-Shirt",
+        "description": "Stand guard over the galaxies with this bold T-Shirt. Its vibrant design embodies the spirit of cosmic exploration.",
+        "price": 89.25,
+        "category": "shirt",
+        "rating": 4.5
+    },
+    {
+        "id": 15,
+        "image": "../img/products/f3.jpg",
+        "brand": "Tag Heuer",
+        "name": "Nebula Explorer T-Shirt",
+        "description": "Embark on a journey through nebulae with this mesmerizing T-Shirt. Its stunning visuals capture the beauty of interstellar clouds.",
+        "price": 87.50,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 16,
+        "image": "../img/products/n1.jpg",
+        "brand": "Swatch",
+        "name": "Stellar Horizon T-Shirt",
+        "description": "Navigate through the stars with this Stellar Horizon T-Shirt. Its minimalist design captures the vastness of space and the beauty of simplicity.",
+        "price": 85.50,
+        "category": "shirt",
+        "rating": 4
+    },
+    {
+        "id": 17,
+        "image": "../img/products/n2.jpg",
+        "brand": "Hugo Boss",
+        "name": "Nebula Nightfall T-Shirt",
+        "description": "Experience the enchanting beauty of nebulae with this Nebula Nightfall T-Shirt. Its deep hues and cosmic patterns evoke a sense of mystery and wonder.",
+        "price": 86.75,
+        "category": "shirt",
+        "rating": 4.5
+    },
+    {
+        "id": 18,
+        "image": "../img/products/n3.jpg",
+        "brand": "Calvin Klein",
+        "name": "Galactic Journey T-Shirt",
+        "description": "Embark on a galactic journey with this captivating T-Shirt. Its dynamic design captures the excitement and thrill of space exploration.",
+        "price": 88.25,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 19,
+        "image": "../img/products/n4.jpg",
+        "brand": "Tommy Hilfiger",
+        "name": "Celestial Elegance T-Shirt",
+        "description": "Adorn yourself with celestial elegance with this stunning T-Shirt. Its refined design and cosmic motifs make it a timeless addition to any wardrobe.",
+        "price": 89.50,
+        "category": "shirt",
+        "rating": 4
+    },
+    {
+        "id": 20,
+        "image": "../img/products/n5.jpg",
+        "brand": "Ralph Lauren",
+        "name": "Starry Night T-Shirt",
+        "description": "Experience the beauty of a starry night with this captivating T-Shirt. Its intricate design captures the magic and allure of the cosmos.",
+        "price": 90.75,
+        "category": "shirt",
+        "rating": 4.5
+    },
+    {
+        "id": 21,
+        "image": "../img/products/n6.jpg",
+        "brand": "Lacoste",
+        "name": "Meteor Shower T-Shirt",
+        "description": "Witness the awe-inspiring beauty of meteor showers with this Meteor Shower T-Shirt. Its vibrant design captures the excitement and wonder of celestial phenomena.",
+        "price": 92.00,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 22,
+        "image": "../img/products/n7.jpg",
+        "brand": "Giorgio Armani",
+        "name": "Space Odyssey T-Shirt",
+        "description": "Embark on a space odyssey with this captivating T-Shirt. Its futuristic design and cosmic motifs evoke a sense of adventure and exploration.",
+        "price": 93.25,
+        "category": "shirt",
+        "rating": 4
+    },
+    {
+        "id": 23,
+        "image": "../img/products/f1.jpg",
+        "brand": "Versace",
+        "name": "Galactic Empire T-Shirt",
+        "description": "Rule the galaxies with this Galactic Empire T-Shirt. Its regal design and celestial motifs make it a statement piece for any space enthusiast.",
+        "price": 94.50,
+        "category": "shirt",
+        "rating": 4.5
+    },
+    {
+        "id": 24,
+        "image": "../img/products/f2.jpg",
+        "brand": "Dolce & Gabbana",
+        "name": "Celestial Harmony T-Shirt",
+        "description": "Find harmony in the cosmos with this Celestial Harmony T-Shirt. Its balanced design and cosmic elements evoke a sense of unity and wonder.",
+        "price": 95.75,
+        "category": "shirt",
+        "rating": 5
+    },
+    {
+        "id": 25,
+        "image": "../img/products/j1.jpg",
+        "brand": "North Face",
+        "name": "Arctic Explorer Jacket",
+        "description": "Conquer the cold with the Arctic Explorer Jacket. Designed for extreme conditions, it provides warmth and style for your winter adventures.",
+        "price": 149.99,
+        "category": "jacket",
+        "rating": 4.8
+    },
+    {
+        "id": 26,
+        "image": "../img/products/j2.jpg",
+        "brand": "Columbia",
+        "name": "Alpine Ridge Insulated Jacket",
+        "description": "Stay warm in style with the Alpine Ridge Insulated Jacket. Its sleek design and advanced insulation make it a perfect choice for cold weather.",
+        "price": 129.95,
+        "category": "jacket",
+        "rating": 4.5
+    },
+    {
+        "id": 27,
+        "image": "../img/products/j3.jpg",
+        "brand": "Patagonia",
+        "name": "Mountain Expedition Jacket",
+        "description": "Embark on a mountain expedition with this durable and weather-resistant jacket. It's the perfect companion for your outdoor adventures.",
+        "price": 179.99,
+        "category": "jacket",
+        "rating": 4.9
+    },
+    {
+        "id": 28,
+        "image": "../img/products/j4.jpg",
+        "brand": "Arc'teryx",
+        "name": "AeroShield Tech Jacket",
+        "description": "Experience cutting-edge technology with the AeroShield Tech Jacket. Its innovative design provides optimal protection and comfort in all conditions.",
+        "price": 219.50,
+        "category": "jacket",
+        "rating": 4.7
+    },
+    {
+        "id": 29,
+        "image": "../img/products/j5.jpg",
+        "brand": "Nike",
+        "name": "Tech Fleece Bomber Jacket",
+        "description": "Combine style and functionality with the Tech Fleece Bomber Jacket from Nike. It's the perfect blend of modern design and comfort.",
+        "price": 89.95,
+        "category": "jacket",
+        "rating": 4.6
+    },
+    {
+        "id": 30,
+        "image": "../img/products/f9.jpg",
+        "brand": "Adidas",
+        "name": "Classic Cotton Shirt",
+        "description": "Elevate your style with this Classic Cotton Shirt from Adidas. Comfortable and versatile, it's perfect for any occasion.",
+        "price": 45.99,
+        "category": "shirt",
+        "rating": 4.2
+    },
+    {
+        "id": 31,
+        "image": "../img/products/f10.jpg",
+        "brand": "Tommy Hilfiger",
+        "name": "Striped Elegance Shirt",
+        "description": "Achieve a look of timeless elegance with the Striped Elegance Shirt by Tommy Hilfiger. Perfect for both casual and formal settings.",
+        "price": 55.50,
+        "category": "shirt",
+        "rating": 4.7
+    },
+    {
+        "id": 31,
+        "image": "../img/products/f13.jpg",
+        "brand": "Ralph Lauren",
+        "name": "Premium Linen Shirt",
+        "description": "Experience luxury with the Premium Linen Shirt by Ralph Lauren. Crafted from high-quality linen, it offers both comfort and style.",
+        "price": 69.95,
+        "category": "shirt",
+        "rating": 4.5
+    },
+    {
+        "id": 32,
+        "image": "../img/products/f14.jpg",
+        "brand": "Calvin Klein",
+        "name": "Casual Denim Shirt",
+        "description": "Add a touch of casual charm with the Casual Denim Shirt from Calvin Klein. Versatile and stylish for everyday wear.",
+        "price": 49.99,
+        "category": "shirt",
+        "rating": 4.3
+    }
+    
+    
+    
+    
+    
+]
